@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-testing-debugging",
+      "title": "Python Testing and Debugging",
+      "description": "Write automated tests and improve error handling for Python code.",
+      "path": "assignments/python-testing-debugging",
+      "dueDate": "2026-07-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
